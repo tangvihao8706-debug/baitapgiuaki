@@ -8,18 +8,45 @@ body {
 	background: #fff;
 }
 
-a:link, a:visited { 
-	color: #F1A5D5; 
-	text-decoration: underline; 
-} 
+a:link,
+a:visited {
+	color: #F1A5D5;
+	text-decoration: underline;
+}
 
-a:active, a:hover { 
-	color: #FFFF00; 
-	text-decoration:none; 
+a:active,
+a:hover {
+	color: #FFFF00;
+	text-decoration: none;
 }
 
 p {
 	margin: 0px;
 	padding: 0 0 10px 0;
 	text-align: justify;
+}
+
+h1 {
+	margin: 0px;
+	padding: 10px 0 20px 0;
+	font-size: 24px;
+	color: #ffffff;
+	font-weight: normal;
+}
+
+h2 {
+	margin: 0 0 20px 0;
+	padding: 10px 0 10px 15px;
+	font-size: 24px;
+	color: #ffffff;
+	font-weight: normal;
+	background-color: #440522;
+}
+
+h3 {
+	margin: 0 0 10px 0;
+	padding: 5px 0 5px 10px;
+	font-size: 16px;
+	color: #ffffff;
+	background-color: #be457c;
 }
