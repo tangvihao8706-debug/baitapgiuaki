@@ -50,3 +50,28 @@ h3 {
 	color: #ffffff;
 	background-color: #be457c;
 }
+#templatemo_container{
+	width: 940px;
+	margin: 0 auto;
+	border: 10px solid #f2d9ef;
+}
+
+#templatemo_menu_panel{
+	overflow: hidden;	
+	width: 880px;
+	height: 40px;
+	padding: 0 30px;
+	background: #440522;
+}
+
+#templatemo_menu_panel ul {
+	float: left;
+	width: 930px;
+	margin: 0;
+	padding: 5px 0 0 0;
+	list-style: none;
+}
+
+#templatemo_menu_panel ul li{
+	display: inline;
+}
